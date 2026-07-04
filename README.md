@@ -155,11 +155,3 @@ npm run dev                  # 默认 3000 端口
 | `DATABASE_URL` | PostgreSQL 连接 | `postgresql+asyncpg://...` |
 | `REDIS_URL` | Redis 连接 | `redis://localhost:6379/0` |
 | `BROWSER_CHANNEL` | 浏览器类型 | `msedge` |
-
-## License
-
-MIT
-
----
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
